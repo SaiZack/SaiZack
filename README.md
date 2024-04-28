@@ -6,7 +6,7 @@ Front-end Web Dev
 
 Experienced frontend web developer with proficient knowledge of backend development, specializing in PHP Laravel. Mastery in HTML, CSS, Bootstrap, and Tailwind, coupled with a proficiency in graphic design and UI/UX creation using tools such as Photoshop, Figma, and XD.
 
-* 🌍  I'm based in Yangon, Myanmar (Burma)
+* 🌍  I'm based in Singapore
 * 🧠  I'm learning React Js & Native
 
 ### Skills
